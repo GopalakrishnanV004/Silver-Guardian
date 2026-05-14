@@ -1,6 +1,6 @@
 # 🛡️ Smart Silver Guardian – Elderly Safety & Health Monitoring System
 
-![Project Image](Prjct Pic.jpg)
+![Project Image](project-image.jpg)
 
 ## 📌 Project Overview
 
