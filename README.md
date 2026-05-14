@@ -89,6 +89,25 @@ The solution uses GSM communication technology to ensure reliable operation in b
 - Microcontroller Programming
 
 ---
+## 📚 Libraries Used
+
+| Library | Purpose |
+|---|---|
+| Wire.h | I2C communication |
+| OneWire | Communication protocol for temperature sensor |
+| DallasTemperature | Temperature sensor reading |
+| Adafruit_GFX | OLED graphics support |
+| Adafruit_SSD1306 | OLED display driver |
+| Adafruit_Unified_Sensor | Unified sensor interface |
+| MAX30100lib | Heart rate and SpO2 monitoring |
+| MPU6050 | Accelerometer and gyroscope sensor |
+| TinyGPSPlus | GPS location parsing |
+| SoftwareSerial | Serial communication for GSM/GPS |
+| U8g2 | OLED graphics library |
+
+> Install required libraries using Arduino IDE → Sketch → Include Library → Manage Libraries
+
+---
 
 # 📂 Files Included
 
